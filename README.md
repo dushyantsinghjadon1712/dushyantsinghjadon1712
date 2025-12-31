@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **dushyantsinghjadon1712@gmail.com**
 
-- ⚡ Fun fact **I think im a developer**
+- ⚡ Fun fact **I'm a cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
