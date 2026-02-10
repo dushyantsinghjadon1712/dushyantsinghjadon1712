@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dushyant Singh Jadon</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🔭 I’m currently working on [Ecosystem](dushyantsinghjadon1712/Ecosystem-learning-website)
+- 🔭 I’m currently working on [JanSwasthya](dushyantsinghjadon1712/Ecosystem-learning-website)
 
 - 🌱 I’m currently learning **Data Analytics, BI Dashboards**
 
