@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dushyant Singh Jadon</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D5616AQEt6j2iJ0m39g/profile-displaybackgroundimage-shrink_350_1400/B56ZhMDgU.HcAc-/0/1753622648889?e=1768435200&v=beta&t=FKDhnNTNi-eXJpRgoZophApMM7WxSFNWkxuuVlxcQzM" alt="dushyantsinghjadon1712" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dushyantsinghjadon1712" alt="dushyantsinghjadon1712" /></a> </p>
-
 - 🔭 I’m currently working on [Ecosystem](dushyantsinghjadon1712/Ecosystem-learning-website)
 
 - 🌱 I’m currently learning **Data Analytics, BI Dashboards**
